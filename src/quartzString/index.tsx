@@ -79,6 +79,8 @@ const QuartzString = () => {
                     </h4>
                 </Card>
             </Card>
+            <a style={{ textAlign: 'center', display: 'inline-block', width: '100%', marginTop: '20px' }} href="https://www.freeformatter.com/cron-expression-generator-quartz.html">
+                參考:FREEFORMATTER.COM網站試做，非營利使用。</a>
         </div>
     );
 }
