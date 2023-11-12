@@ -1,5 +1,5 @@
-import { Card, Result, Tabs } from 'antd';
-import React, { useEffect, useReducer, useState } from 'react';
+import { Card, Tabs } from 'antd';
+import React, { useEffect, useReducer } from 'react';
 import { CronDay, CronHours, CronMinutes, CronMonth, cronReducer, CronSeconds, CronYear } from './CronExpression';
 import './style.scss'
 
